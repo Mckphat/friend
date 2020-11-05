@@ -9,5 +9,5 @@ Mostly for fun
 * VUE
 
 # Librararies used 
-[AOS SCROLL LIBRARY] (https://michalsnik.github.io/aos/)  
+[AOS SCROLL LIBRARY](https://michalsnik.github.io/aos/)  
 
